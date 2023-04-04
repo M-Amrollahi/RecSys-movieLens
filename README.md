@@ -1,5 +1,5 @@
 # Recommendation system in PyTorch
-This is an educational implementation of two-tower recomendation system.
+This is an educational implementation of two-tower recommendation system.
 
 ## Dataset
 MovieLens-100k
